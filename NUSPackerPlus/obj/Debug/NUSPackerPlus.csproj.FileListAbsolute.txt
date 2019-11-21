@@ -1,0 +1,10 @@
+C:\Users\Jose\source\repos\NUSPackerPlus\NUSPackerPlus\bin\Debug\NUSPackerPlus.exe.config
+C:\Users\Jose\source\repos\NUSPackerPlus\NUSPackerPlus\bin\Debug\NUSPackerPlus.exe
+C:\Users\Jose\source\repos\NUSPackerPlus\NUSPackerPlus\bin\Debug\NUSPackerPlus.pdb
+C:\Users\Jose\source\repos\NUSPackerPlus\NUSPackerPlus\obj\Debug\NUSPackerPlus.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\NUSPackerPlus\NUSPackerPlus\obj\Debug\NUSPackerPlus.Form1.resources
+C:\Users\Jose\source\repos\NUSPackerPlus\NUSPackerPlus\obj\Debug\NUSPackerPlus.Properties.Resources.resources
+C:\Users\Jose\source\repos\NUSPackerPlus\NUSPackerPlus\obj\Debug\NUSPackerPlus.csproj.GenerateResource.cache
+C:\Users\Jose\source\repos\NUSPackerPlus\NUSPackerPlus\obj\Debug\NUSPackerPlus.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\NUSPackerPlus\NUSPackerPlus\obj\Debug\NUSPackerPlus.exe
+C:\Users\Jose\source\repos\NUSPackerPlus\NUSPackerPlus\obj\Debug\NUSPackerPlus.pdb
